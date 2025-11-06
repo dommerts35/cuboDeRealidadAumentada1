@@ -1,3 +1,3 @@
 Cubo de Realidad Aumentada
 
-![](https://youtu.be/rBUPYgiCSAE)
+[](https://youtu.be/rBUPYgiCSAE)
